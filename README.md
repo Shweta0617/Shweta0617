@@ -1,6 +1,6 @@
 ## Welcome to My Github Profile 
 
-### Hey 👋 I'm echo "# Intro" 
+### Hey👋🏻 I'm Shweta!
 
 
 <!--
