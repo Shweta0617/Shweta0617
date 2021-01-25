@@ -1,4 +1,10 @@
-### Hey 👋 I'm Shweta!!
+### Hey 👋 I'm echo "# Intro" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Shweta0617/Intro.git
+git push -u origin main
 
 
   ### Welcome to My Github Profile 
