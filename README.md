@@ -1,9 +1,9 @@
 
 ### Hii👋🏻, 
   ###     I'm Shweta!
-![](https://komarev.com/ghpvc/?username=Shweta0617&color=brightgreen)
-Connect with me -
-(https://twitter.com/Shwhite17)
+![](https://komarev.com/ghpvc/?username=Shweta0617&color=brightgreen&style=plastic)
+# Connect with me -
+![<i class="ri-twitter-fill"></i>](https://twitter.com/Shwhite17)
 
 
 I am 
