@@ -3,7 +3,7 @@
   ###     I'm Shweta!
 ![](https://komarev.com/ghpvc/?username=Shweta0617&color=brightgreen&style=plastic)
 # Connect with me -
-![twitter]<i class="ri-twitter-fill"></i>(https://twitter.com/Shwhite17)
+[icon of twitter]</i>(https://twitter.com/Shwhite17)
 
 
 I am 
