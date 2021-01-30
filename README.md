@@ -2,7 +2,8 @@
 
 ### Hey👋🏻 I'm Shweta!
 ```
-![Visitor Count](https://profile-counter.glitch.me/shweta0617/count.svg)
+  Visitors Counts
+  ![Visitor Count](https://profile-counter.glitch.me/Shweta0617/count.svg)
 
 ```
 
