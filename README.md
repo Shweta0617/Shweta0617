@@ -1,9 +1,9 @@
 # Welcome 
 
 ### Hey👋🏻, I'm Shweta!
- 
+ ![](https://profile-counter.glitch.me/Shweta0617/count.svg)
 <!--
- ![Profile Views](https://profile-counter.glitch.me/github.com/Shweta0617/count.svg)
+
 **Shweta0617/Shweta0617** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
