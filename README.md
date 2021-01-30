@@ -1,10 +1,8 @@
 # Welcome 
 
 ### Hey👋🏻, I'm Shweta!
-![](https://komarev.com/ghpvc/?username=Shweta0617)
+![](https://komarev.com/ghpvc/?username=Shweta0617&color=brightgreen)
 <!--
-
- ![Visitors Count](https://profile-counter.glitch.me/Shweta0617/count.svg)
 
 **Shweta0617/Shweta0617** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
