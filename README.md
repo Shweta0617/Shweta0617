@@ -12,4 +12,4 @@ I am
 - 🔭 I’m currently working on Projects based on Flutter and Dart.
 - 🌱 I’m currently focusing on firebase and Data Structure and Algorithm.
 - 👯 I’m looking to collaborate on Open Source.
-- 📫 How to reach me: 1) Twitter - @shwhite17
+- 📫 How to reach me: 1) Twitter-  https://twitter.com/Shwhite17
